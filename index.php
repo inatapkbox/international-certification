@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://int-cts.com/certification/">
+	<meta name="google-site-verification" content="udxNIS3if3VNKT3uuoGOmTuaO_yLXMHGbpRNKIvpM4c" />
+    <link rel="canonical" href="https://international-certification-d2165bb02e86.herokuapp.com/">
     
     <title>International Certification: Unlock Global Business Success</title>
     <meta name="description" content="Get globally recognized with International Certification. Boost trust, open new markets, and improve your operations. Learn how to start today.">
